@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jaka Permana Herawan 👋</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jackhrwn/Jackhrwn/main/anime-divider.gif" width="600" alt="Anime Code Divider" />
+  <img src="https://media.giphy.com/media/L1R1tvI9sv3y0/giphy.gif" width="500" alt="Anime Programming" />
 </p>
 
 ### 🚀 About Me
@@ -44,6 +44,6 @@
 </p>
 
 ---
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/Jackhrwn/Jackhrwn/main/pixel-anime.gif" width="150" alt="Pixel Anime GIF" />
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="Pixel Anime GIF" />
 </p>
