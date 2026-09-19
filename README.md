@@ -1,7 +1,4 @@
 <h1 align="center">Hi there, I'm Jaka Permana Herawan 👋</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9sv3y0/giphy.gif" width="500" alt="Anime Programming" />
-</p>
 
 ### 🚀 About Me
 - 🎓 Computer Science Student at **Universitas Pendidikan Indonesia (UPI)**
@@ -45,5 +42,5 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="Pixel Anime GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhscmVqd3E2aGR6YzIybzg2NHJiZDRtdzVweHQ4OGtqeGFvdHZraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SnVZO1N0Wo6u4/giphy.gif" width="100%" alt="Anime Sad" />
 </p>
