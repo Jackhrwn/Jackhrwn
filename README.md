@@ -1,4 +1,7 @@
-# Hi there, I'm Jaka Permana Herawan 👋
+<h1 align="center">Hi there, I'm Jaka Permana Herawan 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jackhrwn/Jackhrwn/main/anime-divider.gif" width="600" alt="Anime Code Divider" />
+</p>
 
 ### 🚀 About Me
 - 🎓 Computer Science Student at **Universitas Pendidikan Indonesia (UPI)**
@@ -38,4 +41,9 @@
   <a href="mailto:jakacasper1554@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+---
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/Jackhrwn/Jackhrwn/main/pixel-anime.gif" width="150" alt="Pixel Anime GIF" />
 </p>
